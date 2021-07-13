@@ -1,0 +1,34 @@
+{
+  "recipeID": "a101a418",
+  "name": "Cocoa Pebble Treats",
+  "category": "cookies",
+  "description": "yummy treat",
+  "favorites": true,
+  "owner": "Steve",
+  "image": "cookies.jpg?raw=true",
+  "prepTime": 15,
+  "cookTime": 20,
+  "totalTime": 35,
+  "temp": 450,
+  "Servings": 12,
+  "ingredients": [
+    "Cocoa Pebbles",
+    "brown sugar",
+    "corn syrup",
+    "peanut butter"
+  ],
+  "ingedQty": [
+    6,
+    1,
+    1,
+    1
+  ],
+  "ingredUnit": [
+    "cup",
+    "cup",
+    "cup",
+    "cup"
+  ],
+  "directions": "mix it all up"
+
+}

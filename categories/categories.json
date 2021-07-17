@@ -1,0 +1,14 @@
+{
+  "categories" : [
+    {
+    "categoryName" : "Cakes",
+    "imageSaved" : true,
+    "image": "./lib/assets/drinks.jpg"
+    },
+    {
+      "categoryName" : "Cookies",
+      "imageSaved" : true,
+      "image": "./lib/assets/drinks.jpg"
+    }
+  ]
+}
